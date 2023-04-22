@@ -1680,7 +1680,7 @@ address strong, address b {
 }
 
 #page-title-area:after {
-    background-color: rgba(0, 0, 0, 0.85);
+    background-color: rgba(0, 0, 0, 0.368);
     content: "";
     position: absolute;
     left: 0;
